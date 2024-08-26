@@ -1,0 +1,11 @@
+Here are some Chrome extensions for scraping  data from websites:
+
+1. **Instant Data Scraper**: Automatically detects data patterns on web pages and lets you extract them with minimal setup.
+
+2. **DataMiner**: Offers pre-built recipes for data extraction and also allows you to create custom recipes for specific data like names.
+
+3. **Web Scraper**: Allows detailed setup for scraping specific elements such as names from web pages with a point-and-click interface.
+
+4. **Scraper**: A simpler tool for quick data extraction to Google Sheets, suitable for extracting names directly from web pages.
+
+5. **ParseHub**: A more advanced tool with a visual interface for scraping data, including names, from complex websites.
